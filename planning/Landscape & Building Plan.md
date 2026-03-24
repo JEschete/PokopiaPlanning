@@ -12,7 +12,7 @@ Master city planning guide for all areas. Houses are max 10x10 blocks and must c
 
 ## Withered Wastelands (240x240)
 
-**Theme:** Fuchsia City / Safari Zone — now lush and restored. Overgrown ruins reclaimed by nature, winding paths through dense foliage, ponds fed by waterfalls, and a Japanese garden sensibility. Think "ancient city swallowed by jungle, made beautiful."
+**Theme:** Fuchsia City / Safari Zone — now lush and restored. Overgrown ruins reclaimed by nature, but with deliberate terraforming: hand-cut rivers, enclosed cliff districts, and gardened paths that make the zone feel intentionally rebuilt rather than merely natural. Think "ancient city swallowed by jungle, then carefully reshaped into a livable sanctuary."
 
 **Houses:** 19 (Houses 1–19)
 **Housing footprint:** ~3,800 sq blocks (houses + yards) out of 57,600 total — extremely spacious
@@ -22,26 +22,24 @@ Master city planning guide for all areas. Houses are max 10x10 blocks and must c
 ```
 N
 ┌──────────────────────────────┐
-│  ~~RIVER~~  HOT SPRING BATHS│
-│  ≈≈≈≈≈≈≈≈   ┌──┐           │
-│  waterfall   └──┘           │
+│ NW CLIFF / WEST GATE   N GATE│
+│ rocky shore            ruins │
 │                              │
-│  TOWN CENTER (urban zone)    │
-│  PokéCenter │ Shops │ Court  │
-│  ┌───┐ Fountain ┌──┐ 🥊     │
-│  └───┘  ⛲      └──┘        │
-│  ═══MAIN PATH═══════════    │
-│  │                     │     │
-│ BRIGHT    DARK      HUMID    │
-│ QUARTER   QUARTER   QUARTER  │
-│  │         │          │      │
-│  ═══════GARDEN WALK══════    │
-│  │         POND        │     │
-│ DRY       ≈≈≈≈≈     FARM    │
-│ QUARTER   WARM       PLOTS  │
-│  │        QUARTER      │     │
-│  ═══════SOUTH PATH═══════   │
-│   WATERWHEEL   WORKBENCH    │
+│ BRIGHT MEADOW    DARK / DRY  │
+│ Houses 1-6      plateau      │
+│                 Houses 7-11  │
+│                              │
+│        TOWN CENTER           │
+│        PokéCenter stays      │
+│        Shops │ Court │ Plaza │
+│              ⛲               │
+│                              │
+│ HUMID GARDENS     WARM CAMP  │
+│ Houses 12-17      Houses18-19│
+│ streams + ponds   beach edge │
+│                              │
+│ W GATE        SOUTH BEACH    │
+│ shoreline      / tide path   │
 └──────────────────────────────┘
 S
 ```
@@ -49,78 +47,83 @@ S
 ### Habitat Zones
 
 ### Water Features
-- **River** — Runs N-to-S through the center, fed by waterfall from the north cliff
-- **Pond** — Central area near Warm Quarter, connects to river via mini floodgate
-- **Hot Spring** — NE corner using Roserade Tea + hot-spring spouts
-- **Waterwheel Generator** — Placed on the river at the south end
+- **South Beach** — Keep the natural south shoreline as the main water edge and treat it as the broad coastal release for the whole zone
+- **West Cove** — Preserve the west-side water and cliff edge as a scenic inlet tied to the west gate approach
+- **Man-Made River / Canal** — You can absolutely cut a river through the map if it improves the plan. Run it as a controlled civic-to-humid water line, not a random natural river: start near the north/center if desired, pass near but not through the Pokecenter plaza, and feed the humid gardens before emptying toward the south beach
+- **Humid Garden Ponds** — Build 1-2 controlled ponds/streams south-west to south of the Pokecenter using Stockpile Water and mini floodgates
+- **Rain-Control Rule** — Keep the Dark/Dry enclosure roofed or cliff-walled enough that it reads as weather-protected interior terrain, while the Humid/Warm side gets the open-water expression
 
 ### Town Center (Urban Zone)
-- **Pokemon Center** (rebuild at Env Lv 3) — 10 Lumber, 20 Stones, 10 Leaves, 10 Vines
-- **Pikachu Fountain** — Central plaza focal point
-- **Shop Row** — Cash registers, food counters, menu boards, vending machines
-- **Fighting Court** — Punching bags, punching game, flat stone flooring arena
-- **Relaxing Park** (unlock Rank 8) — Adjacent to fountain, benches, hedges, flowers
-- Paths: Hexagonal flooring for the plaza, stepping stones leading to residential quarters
+- **Pokemon Center** (rebuild at Env Lv 3) — do not move it; treat the current placement as the anchor for the whole zone
+- **Pikachu Fountain / Plaza** — Build just beside the existing Pokecenter, not in a separate "idealized" center
+- **Shop Row** — Place east and north-east of the Pokecenter where the ground is already flatter and close to the east gate route
+- **Fighting Court** — Place just east or south-east of the Pokecenter so it reads as a civic activity yard instead of a detached district
+- **Relaxing Park** (unlock Rank 8) — Put directly west or north-west of the Pokecenter as a green buffer before the Bright houses begin
+- Paths: Main junction should radiate from the Pokecenter to the west gate, north gate, east gate, and south beach path
 
 ### Habitat Zones
 
-**Bright Quarter (NW)** — Houses 1–6
-- Open meadow feel with wildflowers, adorable hedges, and beautiful flowers
-- Stepping stone paths between houses
-- Each house gets a small front garden (2-3 block border of flowers)
+**Bright Quarter (Center-West / North-Center)** — Houses 1–6
+- This should wrap around the fixed Pokecenter, because the broad green open area is your best "starter neighborhood" land
+- Put Houses 1-4 in the open meadow north-west to north of the Pokecenter, with Houses 5-6 stepping westward toward the shoreline path
+- Keep it airy: flower borders, hedges, short path connections, and good sightlines back to town
 - Architecture: Leaf house/cottage kits, plaster walls, wooden pillars
-- Use field grass and ordinary soil as ground cover
+- Ground cover: field grass, ordinary soil, small flower pockets rather than formal gardens everywhere
 
-**Dark Quarter (N-Center)** — Houses 7–9
-- Canopy of leppa trees creating natural shade
-- Glowing mushrooms along paths for ambient light (no streetlights here)
-- Mushroom lamps indoors, eerie candles near gravestones for atmosphere
+**Dark Quarter (Top Right / North-East)** — Houses 7–9
+- Keep this where you already have it. The north-east side works even better as a built enclosure than as an open quarter
+- Treat Dark as part of a sealed cliff-rock interior district: cave-box walls, controlled entrances, low light, and a deliberately sheltered atmosphere
+- Let the Dark houses sit deeper into the enclosed space, where ruins, gravestones, mushrooms, and denser shade feel protected from the outside weather
 - Architecture: Stone house kits, cobblestone walls, aged-stone walls
-- Denser vegetation: dense vines on walls, fern groundcover
+- Lighting: mushroom lamps, eerie candles, minimal streetlights
+- Terrain detail: vines, ferns, dark stone edging, ruin fragments, cave-mouth thresholds, and interior cliff walls around the approach paths
 
-**Dry Quarter (SW)** — Houses 10–11
-- Rocky clearing with sandstone accents and gravel paths
-- Bonsly/Sudowoodo-friendly: minimal water features, stone tables outdoors
+**Dry Quarter (Top Right / East of Dark)** — Houses 10–11
+- Keep this in the same north-east enclosed build, but separate it from Dark as the drier inner chamber or adjoining cave room
+- This gives you one coherent artificial harsh-terrain complex: Dark as the gloomier cave lane, Dry as the stonier protected chamber where rain never reaches
 - Architecture: Sand house kits, sandstone blocks, hay pile accents
-- Excavation tools and carts as outdoor decor
+- Decor: gravel paths, excavation tools, stone tables, sparse shrubs, almost no exposed water, and more obvious cliff-rock enclosure walls than the rest of the map
 
-**Humid Quarter (NE)** — Houses 12–17
-- Built around a central pond/stream system using Stockpile Water
-- Stepping stone paths over shallow water, bridge planks crossing streams
-- Duckweed on water surfaces, moss on nearby rocks
+**Humid Quarter (South-West to South-Center)** — Houses 12–17
+- Move Humid down toward the lower half of the map where it can relate to your custom waterworks without fighting the northeast enclosure
+- Use the land south-west and south of the Pokecenter for a wet garden district: shallow channels, stepping stones, reed beds, and a small pond cluster
+- Let the western cove and any cut river/canal feed the mood, but keep the actual homes on flatter interior ground so the quarter stays practical
 - Architecture: Leaf house kits with wooden pillars, boat railings near water
-- Hot-spring spouts in the communal area (Roserade Tea water)
+- Water elements: duckweed, mossy rocks, bridge planks, water basins, one communal spring feature, and canal edges if you decide to formalize a river line
 
-**Warm Quarter (S-Center)** — Houses 18–19
-- Campfires and firepits as communal gathering spots
-- Torches lining the main path, bonfire in the central clearing
+**Warm Quarter (South-East Beach Edge)** — Houses 18–19
+- Put Warm on the south and south-east approach to the beach, where campfires and torchlight make sense and the terrain already feels transitional
+- This quarter should feel like the last stop before the shoreline: driftwood, bonfire circle, torch path, and a slightly rougher edge than the Bright civic core
 - Architecture: Stone house kits, cobblestone flooring, stone fireplaces indoors
-- Warmer lighting: lanterns, torch light
+- Lighting: lanterns, torchlight, firepits, but keep enough open space so it still reads as a beach approach rather than a forge yard
 
 ### Public Amenities
-- **Community Garden** — Farm plots along Garden Walk for berries and food
-- **Workbench Area** — South side, near waterwheel generator
-- **Sprinkler system** — Along farm plots, fed by river
+- **Community Garden** — Put this west or south-west of the Pokecenter, between Bright and Humid, so it acts as a soft transition instead of a remote farm strip
+- **Workbench Area** — Place near the east side of town center, on the route toward the Dark/Dry quadrant; that matches the more rugged houses better and makes the cave-box zone feel intentionally serviced
+- **Beach Lookout / Rest Spot** — Add a simple bench-and-parasol stop on the south path rather than overbuilding the shoreline
+- **Gate Signage** — Treat each green gate building as a landmark: signposts, lamps, or small plaza pads so the paths feel intentional
+- **Dark/Dry Service Gate** — Give the enclosed north-east district an obvious entry sequence: stone threshold, signpost, lantern pair, or checkpoint feel so it reads as a protected interior quarter
 
 ### Recommended Paths
-- **Main Path:** Stepping stones (natural feel) or wooden path
-- **Garden Walk:** Grass flooring with flower borders
-- **Between houses:** 2-block-wide stepping stone paths
-- **House spacing:** 3-5 blocks between houses minimum for gardens/yards
+- **Main Crossroads:** Start at the Pokecenter and build four clear routes: west gate, north gate, east gate, south beach
+- **Dark/Dry Path:** Use rougher stone/gravel as the road climbs into the top-right cluster, then transition into an interior cave path once you pass the cliff enclosure threshold
+- **Humid Paths:** Use stepping stones, plank bridges, and mossy edges
+- **River Walk:** If you cut a canal/river, give it at least one formal footbridge and one civic-facing bank near the Pokecenter side
+- **Beach Path:** Use sand-to-stone transition pieces so the south route feels natural
+- **House spacing:** 3-5 blocks between houses minimum, but keep wider gaps around the Pokecenter so the civic core can breathe
 
 ### Architecture Style Guide
-- **Walls:** Plaster wall, aged-stone wall, cobblestone wall
-- **Flooring:** Stone flooring, hexagonal flooring, grass flooring
-- **Roofs:** Sloped stone roof, tent roofs for a rustic look
-- **Doors:** Rustic door, simple door
-- **Windows:** Hatch window, window pane
-- **Outdoor:** Wooden fencing, wooden posts, adorable hedges as borders
+- **Town Core:** Plaster wall, aged-stone wall, stone flooring, hexagonal flooring around the Pokecenter plaza
+- **Bright:** Leafy/plaster exteriors, wooden pillars, flowers, hedges, lighter roofs
+- **Dark/Dry:** Cobblestone, aged-stone, sandstone, rough walls, gravel, ruin accents, and cliff-rock enclosure walls/ceilings where needed
+- **Humid:** Leaf house materials, wood trim, bridge planks, mossy stones, water basins
+- **Warm:** Stone walls, torch-lit porches, campfire yards, beach-adjacent accents
 
 ---
 
 ## Bleak Beach (272x272)
 
-**Theme:** Vermillion City — bustling harbor town with a boardwalk, docks, and coastal cottages. SS Anne references. Salty, industrial-meets-charming seaside. Think "working fishing village with a lively waterfront."
+**Theme:** Vermillion City — but half-sunken, weathered, and rebuilt around a broken harbor. The area reads less like a clean boardwalk town and more like an old port with brick quays, collapsed waterfront edges, and a surviving inland village to the east. The SS Anne should be the dramatic southern landmark, not just a side reference.
 
 **Houses:** 18 + Meowth solo note (Houses 20–37)
 **Housing footprint:** ~3,800 sq blocks out of 73,984 — very spacious
@@ -128,342 +131,324 @@ S
 ### District Layout
 
 ```
-N (inland)
+N
 ┌──────────────────────────────────┐
-│    TOWN SQUARE (urban zone)      │
-│    PokéCenter │ Shops │ Court    │
-│    ┌───┐  ⛲  ┌──┐    🥊        │
-│    └───┘      └──┘              │
-│            BRIGHT VILLAGE        │
-│            Houses 20-26          │
+│ N GATE on raised pier            │
+│ broken harbor mouth              │
 │                                  │
-│  ══════HARBOR ROAD══════════     │
-│  │                        │      │
-│ DARK      Café    HUMID          │
-│ QUARTER  ┌──┐    DOCKS          │
-│ 27-29    └──┘    30-35          │
+│ WEST DOCK CORE   EAST VALLEY     │
+│ PokéCenter       village / slopes│
+│ shops + plaza    Houses 20-26    │
 │                                  │
-│  ══════BOARDWALK════════════     │
-│  ≈≈≈≈≈≈ beach / ocean ≈≈≈≈≈≈   │
-│  WARM        COOL                │
-│  HUT 37     Meowth              │
-│  ┌──┐                           │
-│  └──┘   ⚓ LIGHTHOUSE           │
+│ CANALS / BRICK QUAYS / BRIDGES   │
+│                                  │
+│ DARK BACKWATER    HUMID HARBOR   │
+│ 27-29             30-35          │
+│                                  │
+│ SOUTH SHORE / FERRY APPROACH     │
+│ Warm 37         SS Anne island   │
+│                 Cool landmark    │
 └──────────────────────────────────┘
-S (oceanfront)
+S
 ```
 
 ### Water Features
-- **Ocean** — Entire south edge, natural. Use Soda Pop to create seawater pools.
-- **Harbor Canal** — Narrow water channel running inland from ocean to dock area
-- **Horsea Fountain** — In the town square (glowing terrain item)
-- **Tidal pools** — Scattered along boardwalk using mini floodgates
+- **Central Harbor Basin** — The main visual feature is not a straight beachfront but a broken inland basin with brick dock edges and water cutting around the civic core
+- **North Inlet** — The north gate sits on its own raised pier/island; treat the water below it as the formal harbor entrance
+- **Canal Cuts** — Preserve or extend the narrow water channels around the Pokecenter docks so the town feels built over a damaged port rather than beside one
+- **South Open Water** — Use the broad southern water as the approach to the SS Anne island
+- **Small Tidal Pocket** — The south-east inlet near the eastern landmass can be a quieter tidal nook for the village edge
+- **Bridge Rule** — Disconnected platforms are not a problem here. Lean into them and connect them with short bridges, gangways, and quay links so the whole map reads like a patched-together harbor town
 
 ### Town Square (Urban Zone)
-- **Pokemon Center** — 10 Twine, 30 Bricks, 10 Sea Glass, 5 Iron Ore
-- **Horsea Fountain** — Center of square
-- **Shop Row** — Cash registers, vending machines, menu boards along Harbor Road
-- **Fighting Court** — Near the docks, industrial feel: iron-plate flooring arena, punching bags
-- **Stylish Café** (unlock Rank 8) — Overlooking the harbor, resort tables, food counters
-- Paths: Square tiling for the town square, simple square tiling for side streets
+- **Pokemon Center** — Keep it where it is, on the west-central dock platform; this is your anchor, not something to relocate inland
+- **Harbor Plaza** — Instead of a clean town square, build a brick-and-stone waterfront plaza around the Pokecenter with bridges and dock spurs
+- **Shop Row** — Put this on the connected brick platforms just north and east of the Pokecenter so it feels like a surviving port market
+- **Fighting Court** — Best placed on one of the broader dock pads south or south-east of the Pokecenter, where the hard paving already fits an arena
+- **Stylish Café** (unlock Rank 8) — Put it on a waterside platform with a view toward the harbor basin or the SS Anne channel
+- Paths: Brick, square tiling, and quay-like paving should dominate here more than boardwalk wood
 
 ### Habitat Zones
 
-**Bright Village (N)** — Houses 20–26
-- Cheerful seaside cottages in a row along the main road
-- Healthy hedges as yard borders, cute flowers in planters
-- Seashore flowers lining the road
+**Bright Village (East Valley)** — Houses 20–26
+- The large eastern green landmass should be the main residential village, not the dock core
+- Use the fact that it is slightly mountainous: houses should sit in a sheltered valley with a few homes stepped up onto higher ground at the edges
+- This is the cleanest place for your cheerful residential strip, even if the whole area is still dilapidated overall
 - Architecture: Sand house/cottage kits, light wooden walls, cloth walls for awning feel
-- Wooden flooring, diagonal wooden flooring indoors
+- Village look: broken garden walls, worn planters, surviving palms, and reclaimed paths through tall grass
 
-**Dark Quarter (W)** — Houses 27–29
-- Set back from the shore in a quieter, shadier area
-- Large palm trees providing canopy, driftwood decor
-- Glowing mushrooms for ambiance, gravestone accents for spooky houses
+**Dark Quarter (West Backwater)** — Houses 27–29
+- Put Dark in the quieter western side channels and ruined dock margins, where isolated platforms and waterlogged corners already create a haunted harbor mood
+- This should feel like the forgotten side of town: broken quays, shadowy alleys, driftwood, and a little separation from the livelier eastern village
 - Architecture: Stone house kits, stone brick walls
-- Mossy boulders and moss as ground detail
+- Detail: mossy boulders, mushrooms, broken brick edges, gravestones, and narrow bridge connections between isolated pads
 
-**Humid Docks (E)** — Houses 30–35
-- Built along/over the waterfront, boardwalk style
-- Boat railings, harbor poles, harbor streetlights
-- Iron columns and beams for dock supports
-- Canoe and inflatable boat as outdoor decor
+**Humid Harbor (Center-East Waterfront)** — Houses 30–35
+- Keep Humid around the water-facing edge between the dock core and the eastern village, where the basin, inlets, and harbor margins naturally support watery homes
+- This district should bridge port and village: less industrial than the civic docks, more built-over-water than the Bright valley homes
+- Boat railings, harbor poles, damp brick, wet walkways, and small piers all fit here
 - Architecture: Sand/city house kits, iron walls, light wooden walls
-- Iron-plate flooring, wooden flooring, grate flooring for docks
+- Flooring: brick quay pads, wooden planks, grate flooring, occasional iron-plate accents, and small connector bridges between house clusters
 
-**Warm Hut (S)** — House 37
-- Beach cottage with campfire and beach parasol outside
-- Torches along the path down to the beach
-- Beach chairs and deck chairs
-- Architecture: Sand hut kit, tent roofs, cloth walls
+**Warm Shore (South Waterfront)** — House 37
+- Put the Warm house on the south shore near the ferry route to the SS Anne, not tucked into a generic beach hut corner
+- It should feel like a weathered shore outpost: campfire, signal lights, crates, and a warmer resting point before boarding the ship area
+- Architecture: Sand hut kit or rugged dockside cottage, tent roofs, cloth walls
 
-**Cool (Meowth)** — Solo flagged
-- Small den on the rocky point near the lighthouse
-- Icy rock and smooth rock decorations
+**Cool / SS Anne Landmark** — Solo flagged
+- The southern island is the SS Anne site. Use that island as a special landmark zone first, not just spare coastline
+- Meowth can be tied to the ship area, a cargo nook, or a small cool-toned side room if you keep it separate, but the more important design move is to make the island unmistakably read as the ship
+- The island should feel man-made and iconic: gangway, deck outline, iron plate or dark flooring, ship-adjacent props, and a deliberate bridge or boarding pier from the mainland
 
 ### Public Amenities
-- **Lighthouse** — SE corner, use iron pillar stack + cube lights + spotlight on top. Build tall (up to 127 blocks)!
-- **Boardwalk** — Wooden path along the entire south edge, beach chairs, beach parasols
-- **Harbor** — Iron scaffolding, harbor poles, crossing gates near railway
-- **Railway** — Railway track from town square to the docks, with handcar
-- **Furnace Generator** — Near the industrial dock area
+- **SS Anne Island Build** — Make the bottom island the signature landmark: hull silhouette, boarding pier, deck lighting, and port staging area
+- **Harbor Bridges** — The broken water cuts around town need intentional bridge links; these are more important than a full south-edge boardwalk and should be treated as core infrastructure
+- **Island Connectors** — Small detached pads near the Pokecenter and south shore should be tied in with short masonry bridges, timber gangways, or iron dock spans rather than left ornamental only
+- **Port Market** — Keep registers, food counters, and stalls around the Pokecenter dock platforms
+- **Harbor Poles / Mooring Zone** — Add them around the central basin and ferry approach to sell the port identity
+- **Furnace Generator** — Hide this in the more industrial west or south-west dock remains, not in the eastern village
 
 ### Recommended Paths
-- **Harbor Road:** Square tiling or simple square tiling
-- **Boardwalk:** Wooden path with boat railings on ocean side
-- **Village paths:** Stepping stones through seashore grass
-- **Dock area:** Grate flooring, iron-plate flooring
-- **House spacing:** 3-4 blocks, tighter in the village for that cozy harbor town feel
+- **Dock Core Paths:** Brick and square tiling around the Pokecenter, with short bridge spans between platforms
+- **Village Paths:** Dirt-and-brick paths through the eastern valley, with some stepped climbs into the slightly raised edges
+- **Harbor Edge Paths:** Mix wood planks, grate flooring, and brick quay edges
+- **Ship Approach:** A formal gangway or pier line from the south shore toward the SS Anne island; if you want permanence, make it a true bridge rather than a temporary-looking dock
+- **Bridge Language:** Use different bridge types on purpose: brick/stone for civic connectors, timber gangways for older dock links, iron spans for industrial harbor crossings
+- **House spacing:** Keep the east village tighter and more clustered; keep the west backwater and south shore more broken up and isolated
 
 ### Architecture Style Guide
-- **Walls:** Light wooden wall, brick wall, stone brick wall, cloth wall (sails/awnings)
-- **Flooring:** Wooden flooring, diagonal wooden flooring, iron-plate flooring
-- **Roofs:** Pitched brick roof, sloped tent roof (dock sheds), glossy awning (shops)
-- **Doors:** Boat door (dockside), simple door (village)
-- **Windows:** Sash window, glass window
-- **Outdoor:** Harbor pole, harbor streetlight, boat railing, sideways log benches
+- **Dock Core:** Brick wall, stone brick wall, iron accents, quay-like paving, awnings for surviving market stalls
+- **East Village:** Light wooden walls, cloth walls, sand/cottage kits, broken garden edges, valley paths
+- **West Backwater:** Stone brick walls, mossy and darker materials, driftwood accents, damaged dock detailing
+- **Humid Harbor:** Mixed wood-and-iron waterfront builds, mooring gear, railings, damp surfaces
+- **SS Anne Zone:** Iron-plate flooring, dark deck materials, gangway detailing, spotlight or ship lights if you want a landmark silhouette
 
 ---
 
 ## Rocky Ridges (272x272)
 
-**Theme:** Pewter City / Mt. Moon — mountain mining town with cavern dwellings, a museum district, and rugged stone architecture. Lava flows from the volcanic areas create dramatic features. Concert stage at the heart. Think "dwarven mountain village meets Pewter's earthy calm, with rivers of fire."
+**Theme:** Pewter City / Mt. Moon — but buried under volcanic ash and then reclaimed. The visible map is mostly an ash field with a few exposed green pockets, cave mouths, and gate anchors; the real personality comes from what you reveal by flattening the ash and what you build underneath: cave halls, hot springs, lava chambers, and a reclaimed stone town. Think "volcanic ruin turned into a practical mountain settlement with a hidden underworld."
 
 **Houses:** 21 (Houses 38–58)
 **Housing footprint:** ~4,200 sq blocks out of 73,984 — lots of room for terrain
-**Verticality:** 127 blocks high — use the full height for mountain peaks, cave systems, and tiered districts
+**Verticality:** 127 blocks high — but the main win here is not tall peaks; it is layered use of surface plus subterranean space
 
 ### District Layout
 
 ```
-N (mountain peak — build UP to 127 blocks)
+N
 ┌──────────────────────────────────┐
-│    COOL/DRY CAVES (high tier)    │
-│    Houses 41, 48-50              │
-│    (carved into cliff face)      │
-│    🌋 LAVA FALLS 🌋             │
-│  ══════RIDGE PATH══════════      │
-│  │                        │      │
-│ DARK      TOWN CENTER   BRIGHT   │
-│ CAVERNS   PokéCenter    PLATEAU  │
-│ 42-47     Shops│Court    38-40   │
-│           ⛲ Concert              │
-│  ══════MINE ROAD═══════════      │
-│  │         ≈≈≈≈≈          │      │
-│ WARM      MOUNTAIN    HUMID      │
-│ FORGE     LAKE        SPRINGS    │
-│ 53-58     ≈≈≈≈≈       51-52     │
+│ N GATE / high ash flats          │
+│ future cool-dry expansion        │
 │                                  │
-│    SMELTERS / WORKBENCH          │
+│ WEST RIDGE     EAST RIDGE GATE   │
+│ cave mouth     cliff approach    │
+│                                  │
+│     CENTRAL GREEN BASIN          │
+│     PokéCenter / town core       │
+│     museum / court / plaza       │
+│                                  │
+│ SOUTH GREEN BELT / WORK YARDS    │
+│ humid access / forge access      │
+│                                  │
+│ SUBTERRANEAN BELOW:              │
+│ caves / hot springs / lava halls │
 └──────────────────────────────────┘
-S (base camp)
+S
 ```
 
 ### Habitat Zones
 
-**Bright Plateau (E-Center)** — Houses 38–40
-- Open flat area with mountain views, stone tables and benches outdoors
-- Mountain flowers and elegant flowers in planters
-- Pointy trees scattered around
+**Bright Plateau (Central Surface Core)** — Houses 38–40
+- Once you flatten the ash, the broad green area around the Pokecenter should become the main surface district
+- This is where the open, civic, and showpiece houses belong: clean sightlines, plaza access, and room for museum-like stone landscaping
+- Keep it surface-oriented rather than pushing Bright into caves or harsh terrain
 - Architecture: Stone house kits, painted walls, extravagant pillars
-- Lined-stone flooring, dark marble flooring indoors
+- Flooring: lined-stone flooring, dark marble flooring indoors, stone plazas outside
 
-**Cool/Dry Caves (N — Upper Tier)** — Houses 41, 48–50
-- Built into or against the cliff face using black cliff rock and volcanic rock
-- Use the 127-block height: carve caves at multiple elevations with stone steps between
-- Crystal clusters and stalagmites as natural decor
-- Glowing stone for ambient light, crystal walls indoors
-- Architecture: Stone house kits, cobblestone walls, starry-sky walls
-- Stone tiling, stylish stone flooring, dark marble flooring
+**Cool / Dry Surface Edge (North and Upper Surface)** — Houses 41, 48-50
+- Since you plan to remove a lot of the ash, Cool and Dry do not need to live as cramped cliff-face caves on the visible map
+- Use the northern and upper surface as a reclaimed high plain: sparse stone gardens, fossil courtyards, exposed rock, and cooler open air
+- Let the area still feel elevated and remote, but not overly vertical; the harshness should come from material choice and openness, not stacked cliff tiers
+- Architecture: stone house kits, cobblestone walls, crystal or starry-sky accents where you want a fossil/museum feel
+- Ground treatment: exposed stone, gravel, sparse shrubs, fossil display pads, and restrained decorative water
 
-**Dark Caverns (W)** — Houses 42–47
-- Tiered into the mountainside with stone steps between levels
-- Sticky webs in corners, molten rock/cooled molten rock nearby
-- Eerie candles and mushroom lamps for dim lighting
-- Architecture: Stone house kits, cobblestone walls, warning walls for industrial areas
-- Woven carpeting, stone flooring
+**Dark Caverns (Subterranean West / Central Belowground)** — Houses 42–47
+- Dark should become a true cave district, because you already have cave structure and subterranean plans
+- Put these houses below the reclaimed surface, accessed through one or two deliberate cave-mouth entries near the central/western rock formations
+- This district should feel sheltered, secretive, and older than the town above
+- Architecture: Stone house kits, cobblestone walls, warning walls where industrial cave sections begin
+- Lighting: eerie candles, mushroom lamps, glowing stone, limited warm pockets
+- Terrain detail: webs, stalagmites, cooled molten rock, carved tunnels, alcoves, and split chambers instead of open surface neighborhoods
 
-**Humid Springs (SE)** — Houses 51–52
-- Built around natural hot springs and water features
-- Damp hedges, moss, ferns as lush groundcover
-- Water basin and hot-spring spout as outdoor features
+**Humid Springs (Subterranean or Sheltered South-East)** — Houses 51–52
+- Since the hot springs are subterranean, make Humid one of the hidden rewards of the map rather than a visible south-east surface pond zone
+- Put Humid on the access route to the lower cave systems or in a sheltered basin opening off the caves, where steam, warm water, and moss make sense
+- This should feel like a pocket biome: unexpectedly lush compared to the ash-cleared surface above
 - Architecture: Stone house kits, mossy soil ground, wooden pillars
-- Simple flooring, stone flooring with mossy accents
+- Features: hot-spring spouts, water basins, damp hedges, moss, steam pockets, bridge planks over shallow channels
 
-**Warm Forge (SW)** — Houses 53–58
-- Industrial mining district with furnaces and smelters
-- Firepits, campfires, torches everywhere
-- Metal drums, tires, excavation tools as industrial decor
-- Carkol/Coalossal vibes: railway tracks running through the district
-- **Lava channels** running through the district — use Chili sauce to create lava flows between forges
-- Molten rock and cooled molten rock as borders along lava channels
-- Architecture: Stone/city house kits, iron walls, warning walls
-- Iron-plate flooring, cyber flooring, iron tiling
+**Warm Forge (Subterranean South / South-West Access)** — Houses 53–58
+- Warm should also lean belowground, tied to the lava system and forge halls rather than surface lava rivers
+- Use the surface only for the approach yard, work sheds, and mine entries; put the real dramatic fire/lava identity underground
+- This gives you much more usable surface area while preserving the volcanic identity where it counts
+- Architecture: stone/city house kits, iron walls, warning walls
+- Features: furnaces, smelters, rails, metal drums, excavation tools, contained lava rooms, and forge bridges over lava channels
+- Surface expression: vents, smoke stacks, mine cranes, and industrial entrances rather than giant open lava moats
 
 ### Water & Lava Features
-- **Mountain Lake** — Central area, fed by waterfall from upper caves. Use Fresh Water.
-- **Hot Springs** — SE near Humid houses, Roserade Tea + hot-spring spouts
-- **Lava Falls** — North cliff face: Chili sauce lava cascading down volcanic rock into a contained lava channel
-- **Lava Moat** — Surrounds the Warm Forge district, crossed by iron scaffold bridges
-- **Water Basin** — Town center, decorative water feature near the concert stage
+- **Ash Removal Rule** — Flatten or clear most of the ash field first so you reclaim usable surface building area before committing to district decoration
+- **Surface Water** — Keep surface water minimal and intentional: maybe one civic basin or small pond, but do not waste prime space on a giant mountain lake if the real water identity is underground
+- **Hot Springs** — Put these belowground or in a sheltered cutaway chamber connected to the Humid district
+- **Lava System** — Keep lava mostly subterranean: lava halls, forge channels, and controlled industrial chambers below the surface rather than giant exposed surface rivers
+- **Cave Reservoir** — If you want a larger water feature, make it an underground reservoir or spring chamber instead of a surface lake
 
 ### Town Center (Urban Zone)
-- **Pokemon Center** — 25 Stones, 25 Iron Ingot, 25 Copper Ingot, 5 Crystal Fragments
-- **Concert Stage** (unlock Rank 8) — Central plaza, small stages, speakers, standing mics
-- **Shop Row** — Cash registers, vending machines, carved into stone facades
-- **Fighting Court** — Stone flooring arena with punching bags, punching game. Bordered by lava channels for dramatic flair.
-- **Museum District** — Near Bright Plateau, exhibition stands, mysterious pedestals, fossils on display
-- Paths: Lined-stone flooring for the plaza, stone tiling for streets
+- **Pokemon Center** — Use the current central green-basin placement as the anchor of the reclaimed surface town
+- **Concert Stage** (unlock Rank 8) — Best on the surface near the Pokecenter, since this map benefits from one welcoming open plaza amid all the harsher stone theming
+- **Shop Row** — Keep it surface-side, carved into retaining walls or built as stone-front market buildings around the basin
+- **Fighting Court** — Surface district near the Bright houses and museum works best; do not bury every civic function underground
+- **Museum District** — This area is perfect for fossils, mining exhibits, crystal fragments, and "recovered from below" displays. Put this near the Cool/Dry side of the central surface
+- Paths: lined-stone flooring for the plaza, stone tiling for streets, with obvious cave-entry thresholds where the underground districts begin
 
 ### Public Amenities
-- **Mine Shaft** — Railway track from Forge to Caves, handcar for transport, uses verticality
-- **Smelting Quarter** — South edge, smelting furnaces, metallic smelting furnaces
-- **Furnace Generator** — Warm Forge district, fed by lava proximity
-- **Observatory** — Mountain peak (build to max height!), iron scaffold + spotlight for stargazing
+- **Main Cave Entrance** — Make one obvious public cave mouth near the central rock cluster so the underground districts feel intentionally connected to town
+- **Secondary Service Entrance** — A second, more industrial entry near the south or south-west works for forge traffic
+- **Smelting Quarter** — Put the noisy industrial surface pieces near the Warm access zone, while keeping the hottest spaces belowground
+- **Furnace Generator** — Tie this to the forge access zone, not the civic center
+- **Museum / Fossil Walk** — Use the cleared surface to create a proper fossil promenade instead of hiding all the good display space in caves
+- **Observatory / Lookout** — If you want one, make it a small ridge lookout rather than a giant peak build; this map reads more as reclaimed basin than vertical summit city
 
 ### Recommended Paths
-- **Ridge Path:** Stone tiling, lined-stone flooring
-- **Mine Road:** Iron-plate flooring, iron tiling
-- **Between houses:** Stone steps for elevation changes, stepping stones on flat areas
-- **Cave interiors:** Dark marble flooring, glowing stone accents
-- **House spacing:** 2-4 blocks (tighter in caverns for cozy cave village feel, wider on plateau)
+- **Surface Ring Road:** Build one main path loop around the central basin so the cleared surface feels organized after the ash removal
+- **Museum / Bright Paths:** Lined-stone flooring, stone tiling, and cleaner civic edges
+- **Cool/Dry Paths:** Gravel, exposed stone, sparse edging, and fossil-court connectors
+- **Cave Entries:** Use obvious threshold changes, such as darker stone, rails, lantern pairs, or warning walls, so players read the transition underground
+- **Underground Routes:** Dark marble flooring, glowing stone accents, rails, and narrow bridge segments over water/lava where needed
+- **House spacing:** Wider on the reclaimed surface, tighter only in the true cave districts
 
 ### Architecture Style Guide
-- **Walls:** Cobblestone wall, stone brick wall, painted wall, starry-sky wall (caves), warning wall (industrial)
-- **Flooring:** Stone flooring, dark marble flooring, iron-plate flooring, woven carpeting
-- **Roofs:** Sloped stone roof, flat stone roof (cave-adjacent), corrugated metal (forge)
-- **Doors:** Iron door (forge), stylish door (plateau), rustic door (caves)
-- **Windows:** Stained-glass windows (plateau), hatch window (caves)
-- **Pillars:** Extravagant pillars (plateau), stone pillars (caves), iron pillars (forge)
-- **Outdoor:** Excavation tools, metal drums, crystal clusters, stalagmites
+- **Surface Civic Zone:** Stone brick wall, painted wall, lined-stone flooring, fossil displays, cleaner plaza geometry
+- **Cool/Dry Surface:** Cobblestone, exposed stone, crystal accents, sparse ornament, fossil/museum language
+- **Dark Caves:** Cobblestone wall, starry-sky wall, rough walls, glowing stone, stalagmites, webs
+- **Humid Springs:** Mossy soil, stone flooring with moss accents, wooden pillars, steam and water detail
+- **Warm Forge:** Warning walls, iron walls, iron-plate flooring, rails, smelter props, controlled lava chambers
 
 ---
 
 ## Sparkling Skylands (352x352)
 
-**Theme:** Celadon City + Saffron City — but floating in the sky. A gleaming urban center with rooftop gardens, neon-lit streets, department stores, and a sleek modern aesthetic. Think "sky-high metropolis with parks between the towers."
+**Theme:** Celadon City + Saffron City — but rebuilt as a layered sky-megacity. The islands below are not the main walkable city; they are structural supports, lower utility decks, and thematic subdistrict anchors beneath a giant man-made roof platform spanning the whole map. Think "Midgar in the clouds": one connected upper plate above empty sky, with towers, support islands, and hidden lower sectors underneath.
 
 **Houses:** 20 (Houses 59–78)
 **Housing footprint:** ~4,000 sq blocks out of 123,904 — enormous space for a proper city grid
-**Verticality:** 127 blocks — build skyscrapers, multi-level districts with elevator platforms
+**Verticality:** 127 blocks — ideal for a layered city: support islands below, central tower and lift cores in the middle, and a full upper platform as the true urban surface
 
 ### District Layout
 
 ```
 N
 ┌────────────────────────────────────────┐
-│  CIVIC CENTER (urban zone)             │
-│  PokéCenter │ Shops │ Dojo │ Dept Store│
-│  ┌───┐  ⛲ Fountain Plaza  ┌────┐      │
-│  └───┘                     └────┘      │
+│          UPPER CITY PLATE             │
+│ civic core / boulevard / housing grid │
 │                                        │
-│  ════════MAIN BOULEVARD════════════    │
-│  │              │              │        │
-│ BRIGHT         DARK          COOL      │
-│ DOWNTOWN       MYSTIC        STEEL     │
-│ 59-65          QUARTER       TOWER     │
-│                67-69         66         │
-│  ════════SKY GARDEN WALK═══════════    │
-│  │          ≈≈≈≈≈≈≈≈          │        │
-│ HUMID       SKY CANAL        WARM      │
-│ DRAGON      ≈≈≈≈≈≈≈≈         FLAME    │
-│ FALLS       DRY GARDEN       DISTRICT  │
-│ 71-75       70               76-78     │
+│ BRIGHT       DARK        COOL          │
+│ 59-65        67-69       66            │
 │                                        │
-│  ════════SOUTH PROMENADE═══════════    │
-│     WINDMILL    WORKBENCH PLAZA        │
+│ HUMID        DRY         WARM          │
+│ 71-75        70          76-78         │
+│                                        │
+│ central tower / lift shafts / ramps    │
+│                                        │
+│ LOWER LEVEL: scattered support islands │
+│ clouds below / gaps mostly preserved   │
 └────────────────────────────────────────┘
 S
 ```
 
 ### Water Features
-- **Sky Canal** — Central water channel running E-W, connecting Humid Dragon Falls to the rest of the city
-- **Fountain Plaza** — Pikachu fountain kit as the civic centerpiece
-- **Waterfall Cascades** — In the Dragon Falls district, multi-tier waterfalls using the 127-block height
-- **Reflecting Pools** — Shallow water features in the Sky Garden using mini floodgates
-- **Water Pillar Quarters** — Decorative water columns along the promenade
+- **Cloud Void Rule** — The white gaps between islands are buildable if you want them to be, but this plan assumes you intentionally preserve most of them as open sky so the city keeps its suspended, engineered feel
+- **Upper Plate Water** — Most meaningful water features should live on the roof platform itself: fountains, canals, reflecting pools, and controlled rooftop gardens
+- **Tower Waterfalls** — If you want dramatic water, run it off the upper platform or central tower as engineered cascades rather than pretending the islands naturally connect
+- **Lower Support Pools** — Small basins on individual islands are fine, but the main civic water language belongs to the upper plate
+- **Water Pillar / Drain System** — Decorative water columns dropping from the upper platform can make the plate feel infrastructural and artificial
 
 ### Civic Center (Urban Zone)
-- **Pokemon Center** — 25 Pokemetal Ingot, 25 Concrete, 25 Glass, 25 Gold
-- **Fountain Plaza** (unlock Rank 8) — Central gathering space with Pikachu fountain kit
-- **Department Store** — Multi-story using elevator platforms, up to 5+ floors. Cash registers, exhibition stands per floor
-- **Fighting Dojo** — Dedicated building: stone flooring arena, punching bags, punching game. Reference Saffron's dojo.
-- **Game Corner** — Arcade machines, gaming PCs, neon flooring, mirror balls
-- **Shop Row** — Automatic doors, vending machines, cash registers along Main Boulevard
-- Paths: Asphalt road with marked road crossings for the boulevard
+- **Pokemon Center** — Keep the current central island placement as the lower-hub anchor, then make the upper city directly above or connected vertically to it
+- **Upper Civic Center** — The true city square should be on the roof platform, centered around the main tower/lift access rather than spread across the broken islands below unless you deliberately want more lower-level expansion later
+- **Fountain Plaza** (unlock Rank 8) — Put this on the upper plate as the centerpiece of the connected city floor
+- **Department Store** — Perfect fit for the upper plate near the central tower, using elevators to emphasize verticality
+- **Fighting Dojo** — Best placed on the upper city where it reads as a formal district building, not an isolated island shack
+- **Game Corner** — Upper city neon district is the right home for it
+- **Shop Row** — Main boulevard on the roof platform, not on the broken lower islands
+- Paths: Asphalt roads, marked crossings, and deliberate sectors on the plate; lower islands should use maintenance paths, stairs, ramps, and service catwalks
 
 ### Habitat Zones
 
-**Bright Downtown (NW)** — Houses 59–65
-- The main urban district: multi-story buildings, shops at ground level
-- Asphalt roads with marked road crossings
-- Streetlights (double streetlight, chic streetlight) lining the boulevards
-- Rooftop gardens on flat roofs with seashore flowers, stylish hedges
+**Bright Downtown (Upper Plate Core)** — Houses 59–65
+- Bright should dominate the most stable, connected part of the roof platform because this is the public-facing city layer
+- This is where the clearest Midgar-style "street level in the sky" feeling should live: roads, signage, plazas, and mixed residential-commercial frontage
 - Architecture: City house kits, modern walls, brick walls, pop art walls
-- Hardwood flooring, stylish tiling, light marble flooring indoors
-- Automatic doors, glass windows, skylights
+- Materials: hardwood flooring, stylish tiling, light marble flooring indoors, automatic doors, glass windows, skylights
 
-**Dark Mystic Quarter (N-Center)** — Houses 67–69
-- Atmospheric district with stained-glass windows and starry-sky walls
-- Chic streetlights dimmed, eerie candles and crystal balls in windows
-- Hanging banners and hanging scrolls on exteriors
+**Dark Mystic Quarter (Upper Plate Edge / Lower-Tower Adjacency)** — Houses 67–69
+- Dark works best at the edge of the upper city or in the shadow of the central tower/support structures, where the plate blocks light and the city starts to feel stranger
+- You can also let parts of Dark dip down one level off the main platform if you want a stronger "underplate" tone without fully abandoning the connected city
 - Architecture: City/stone house kits, broken-tiling walls, rough walls
-- Extravagant carpeting, woven carpeting
+- Atmosphere: stained-glass windows, starry-sky walls, dimmed streetlights, banners, crystal balls, and tower-shadow alleys
 
-**Cool Steel Tower (NE)** — House 66
-- Single imposing structure for the Beldum line + Persian
-- Iron walls, iron beams, iron columns — full metal building
-- Crystal walls for accents, glass windows throughout
-- Architecture: City house kit, iron walls, modern walls
-- Iron tiling, stylish tiling indoors
+**Cool Steel Tower (Dedicated Support Island + Tower Link)** — House 66
+- Cool is a perfect candidate for a distinct tower complex tied to one of the more isolated islands, because that separation reads as intentional corporate/industrial isolation
+- Link it vertically to the upper plate with elevators, ramps, or enclosed bridges from the central tower network
+- Architecture: City house kit, iron walls, modern walls, crystal accents, glass-heavy facades
+- Materials: iron tiling, stylish tiling, polished steel-tower feel
 
-**Humid Dragon Falls (SW)** — Houses 71–75
-- Waterfalls and streams running between buildings
-- Lush vegetation: stylish hedges, robust flowers, skyland flowers
-- Bridge planks and arch bridges crossing water
-- Water pillar quarters as decorative water features
+**Humid Dragon Falls (Upper Plate Garden Sector + Lower Water Supports)** — Houses 71–75
+- Humid should live partly on the plate and partly in the dramatic vertical space around it: rooftop canals above, engineered waterfalls and lush support-garden pockets below
+- This district should be one of the best examples of the layered-city concept, with greenery softening the infrastructure
 - Architecture: City house kits, cushy walls, cloth walls
-- Grass flooring outdoor, hardwood flooring indoor
+- Features: rooftop streams, bridge planks, arch bridges, water pillars, lush support-garden terraces, and canal edges
 
-**Dry Desert Garden (S-Center)** — House 70
-- Sand garden with boulders, gravel paths, and sparse pointy trees
-- Skyland sand as ground, strength rocks and large boulders
+**Dry Desert Garden (Plate Edge Pocket / Isolated Pad)** — House 70
+- Dry works well as a deliberately isolated pocket on the upper plate or on one of the less developed support pads below, because the emptiness reinforces the habitat
+- Keep it compact and intentional: a sealed garden, sparse court, or wind-scoured rooftop pad rather than a full district spread
 - Architecture: Sand house kit, rough walls
-- Stone tiling, sandstone accents
+- Features: skyland sand, boulders, gravel paths, sparse pointy trees, restrained decorative barriers so it feels curated not accidental
 
-**Warm Flame District (SE)** — Houses 76–78
-- Warm-toned buildings with neon accents
-- Campfires in plazas, string lights overhead
-- Pop art furniture and gaming furniture for the modern vibe
+**Warm Flame District (Upper Plate Entertainment Edge)** — Houses 76–78
+- Warm should be the nightlife / entertainment edge of the roof city: not literal ground fire everywhere, but warm light, neon, game spaces, plazas, and high-energy rooftops
+- This is the best place to make the upper plate feel alive after dark
 - Architecture: City house kits, striped walls, pop art walls
-- Neon flooring accents, hardwood flooring
+- Features: string lights, campfire-style plazas, neon flooring accents, gaming furniture, hardwood flooring, and brighter signage
 
 ### Public Amenities
-- **Sky Garden** — Central green belt along the walk: all Skylands-native flowers, trees, hedges
-- **Charging Station** — Near windmill, electric-type Pokemon area
-- **Windmill Generator** — Sky area has great wind; place on elevated platform, build tall
+- **Upper Plate Ring Road** — The roof platform needs a clear civic street grid or ring road; that is the main city circulation layer
+- **Central Tower / Lift Core** — This is the most important structural element on the map now. Use it as the hinge between lower islands and upper city
+- **Sky Garden** — Make this a managed rooftop green belt on the plate, not a ground-level park between disconnected islands
+- **Charging Station** — Can sit on a lower support island or near the Cool tower connection
+- **Wind / Power Infrastructure** — Put generators, vents, and machinery on lower or edge platforms so the upper plate stays readable as city first, infrastructure second
+- **Support Catwalks** — Lower-level maintenance bridges between some islands are fine, and you can always add more of them later, but they should read as selective service routes rather than the main urban experience
 
 ### Recommended Paths
-- **Main Boulevard:** Asphalt road with marked road crossings
-- **Sky Garden Walk:** Grass flooring with concrete borders
-- **South Promenade:** Stylish tiling, square tiling
-- **Between buildings:** Concrete slab, walkways, 2-3 block sidewalks
-- **Building spacing:** 2-3 blocks for urban density, wider gaps where gardens/plazas break up blocks
+- **Upper Main Boulevard:** Asphalt road with marked crossings across the roof platform
+- **Plate Sector Roads:** Concrete slab, sidewalks, and deliberate block structure between districts
+- **Tower Access Routes:** Elevators, lift platforms, stairs, and enclosed ramps connecting the upper plate to lower islands
+- **Lower Maintenance Paths:** Narrower service catwalks, metal walkways, and industrial connectors only where needed, since preserving most of the sky gaps is part of the visual identity here
+- **Sky Garden Walk:** Grass flooring with concrete borders on the upper plate
+- **Building spacing:** Dense on the upper city; much looser and more infrastructural on the lower islands
 
 ### Architecture Style Guide
-- **Walls:** Modern wall, brick wall, pop art wall, cushy wall, striped wall, concrete wall
-- **Flooring:** Hardwood flooring, stylish tiling, asphalt road, neon flooring (accent)
-- **Roofs:** Flat brick roof (modern), dormered brick roof, skylight
-- **Doors:** Automatic doors (shops), modern door, stylish door
-- **Windows:** Glass window, sash window, skylight
-- **Pillars:** Iron pillar, round pillar, iron column
-- **Outdoor:** Double streetlight, chic streetlight, vending machines, information boards
+- **Upper City:** Modern wall, brick wall, pop art wall, striped wall, concrete wall, asphalt road, stylish tiling, neon accents
+- **Tower / Support Structures:** Iron pillar, round pillar, iron column, exposed structural framing, glass-heavy facades
+- **Dark / Underplate Edges:** Rough walls, broken-tiling walls, stained-glass accents, dimmer lighting
+- **Humid Garden Sector:** Cushy walls, cloth walls, water features, planted terraces, bridge details
+- **Outdoor Language:** Double streetlight, chic streetlight, vending machines, information boards, lift platforms, support beams, catwalks
 
 ---
 
 ## Palette Town (384x384)
 
-**Theme:** Your sandbox — the biggest area with the fewest Pokemon (8 houses + Glaceon solo). This is the player's personal showcase. With 147,456 sq blocks and only 8 houses, you have massive room for creative builds, display areas, and infrastructure.
+**Theme:** Your sandbox — but in practice it is an island chain, not one giant continuous town map. Palette works best as a personal archipelago: one home-hub island, one major showcase island, and several themed satellite islands for landmarks, special habitats, and experimental builds. Think "personal base plus curated island districts," not "one big suburban landmass."
 
 **Houses:** 8 + Glaceon solo (Houses 79–86)
 **Housing footprint:** ~1,800 sq blocks out of 147,456 — less than 2% used for housing
@@ -474,109 +459,99 @@ S
 ```
 N
 ┌────────────────────────────────────────────┐
+│ NORTH ISLANDS                              │
+│ warm / cool / special landmark pads        │
 │                                            │
-│  BRIGHT VILLAGE          ALTAR OF FLAME    │
-│  Houses 79-81            ┌──────┐          │
-│  ┌──┐ ┌──┐ ┌──┐        └──────┘          │
-│  └──┘ └──┘ └──┘                           │
+│ HOME HUB ISLAND                            │
+│ PokéCenter / house / gate / plaza          │
 │                                            │
-│  ═══════════MAIN AVENUE══════════════      │
-│  │                              │          │
-│ DARK    TOWN CENTER           WARM         │
-│ CORNER  PokéCenter│Shops      HEARTH       │
-│ 82-83   ⛲ Court              85-86        │
+│ WEST-SOUTH MAIN ISLAND                     │
+│ showcase zone / bright / humid / farming   │
 │                                            │
-│              ≈≈≈≈≈≈≈≈                      │
-│              CENTRAL                       │
-│              LAKE        FREEZING          │
-│              ≈≈≈≈≈≈≈≈    CHAMBERS          │
-│              SHOWCASE    + Glaceon          │
-│              ZONE                          │
-│  ═══════════SOUTH LANE═══════════════      │
-│  │                              │          │
-│ HUMID        POWER PLANT     FARM /        │
-│ SHORE        ┌────┐          ORCHARD       │
-│ 84           └────┘                        │
-│                                            │
+│ small bridge links / ferry feel / docks    │
 └────────────────────────────────────────────┘
 S
 ```
 
 ### Water Features
-- **Central Lake** — Large freshwater lake in the center, the heart of Palette Town
-- **Stream** — Flows from lake to Humid Shore district in the SW
-- **Waterfall** — From elevated terrain near Altar of Flame cascading into the lake
-- **Ice Pools** — Near Freezing Chambers, frozen water surfaces using Ice blocks
+- **Open Sea Rule** — Unlike Skylands, the gaps here are real water and should stay legible as channels between islands even if you connect them with bridges
+- **Main Island Lake** — The large south-west island already has the right shape for Palette's main water feature; use that existing basin as the central freshwater lake rather than forcing a giant lake elsewhere
+- **Harbor Channels** — The water between the home-hub island and the larger islands should feel navigable and intentional, with docks, piers, and short crossings
+- **Small Tidal Pools** — Minor pools on the smaller islands are fine, but the biggest water identity should belong to the large south-west island
 
 ### Town Center (Urban Zone)
-- **Pokemon Center** — Build when ready
-- **Fountain** — Water basin or Pikachu fountain in center of town square
-- **Shop Row** — Cash registers, vending machines, exhibition stands
-- **Fighting Court** — Open-air arena near the Altar of Flame, punching bags, punching game
-- **Moonlight Dance Statue** — Decorative kit build in the plaza
-- Paths: Aged-stone flooring for the plaza, classic Palette Town feel
+- **Pokemon Center** — Keep it on the current east-side home-hub island; this island should read as your personal base of operations
+- **Home Plaza** — Build a compact plaza around the Pokecenter and house rather than trying to force the main civic square onto the biggest island
+- **Shop Row** — Small-scale and homey here: a few stalls, vending machines, and exhibition stands on the hub island or a connected short pier
+- **Fighting Court** — Better on the large south-west island, where you actually have room for an open-air arena without crowding the base hub
+- **Moonlight Dance Statue** — Good as a home-island landmark or central greeting feature
+- Paths: Aged-stone flooring for the hub plaza, with docks, short bridges, and island connectors leading outward
 
 ### Habitat Zones
 
-**Bright Village (NW)** — Houses 79–81
-- Quaint starter-town feel with small houses and flower gardens
-- Wildflowers, dry wildflowers, leppa trees lining paths
-- White rock and cliff rock borders
+**Bright Village (Main South-West Island)** — Houses 79–81
+- The large south-west island should do the heavy lifting for normal residential life, because it is by far the most flexible landmass
+- Put Bright here as the default welcoming village/showcase blend: gardens, open paths, water access, and plenty of room to breathe
 - Architecture: Leaf/sand house kits, plaster walls, aged-stone walls
-- Wooden flooring, felt mat
+- Features: wildflowers, dry wildflowers, leppa trees, garden yards, and easy pathing around the lake
 
-**Dark Corner (W)** — Houses 82–83
-- Tucked away area with tree canopy and dim atmosphere
-- Black rock, cave rock for terrain
-- Glowing mushrooms, eerie candles
+**Dark Corner (Smaller Satellite Island or Main-Island Edge)** — Houses 82–83
+- Dark works best on one of the smaller detached islands or on the more isolated edge of the home-hub side, where it can feel tucked away and self-contained
+- You do not need much space for these houses, so this is a good way to make a small island feel intentional rather than leftover
 - Architecture: Stone house kits, aged-stone walls, patterned aged-stone walls
+- Features: black rock, cave rock, glowing mushrooms, eerie candles, and a short bridge or pier approach
 
-**Humid Shore (SW)** — House 84
-- Coastal area with beach sand, palm trees, driftwood
-- Small pond or tidal pool
+**Humid Shore (Main South-West Island Lake Edge)** — House 84
+- Humid belongs on the big island too, along the lake or on the softer coastal edge where water and greenery are easiest to support
+- This lets the main island carry both the practical residential core and the relaxed waterfront expression
 - Architecture: Sand hut kit, light wooden wall
+- Features: beach sand, palms, driftwood, reeds, and a lake-to-sea transition feel
 
-**Warm Hearth (E)** — Houses 85–86
-- Cozy cluster near the Altar of the Flame
-- Campfires, bonfires, warm lighting
-- Leppa trees and field grass
+**Warm Hearth (North or North-West Satellite Island)** — Houses 85–86
+- Warm works well on one of the smaller northern islands, especially if you want one island to read as the flame/ember landmark zone
+- This keeps the heat-themed builds from cluttering the home island while giving a smaller pad a strong identity
 - Architecture: Leaf/stone house kits, wooden pillars
+- Features: campfires, bonfires, warm lighting, leppa trees, and a landmark feel rather than dense housing
 
-**Glaceon + Freezing Chambers (SE)**
-- Freezing Chambers kit creates the icy biome
-- Ice blocks, icy rock decoration
-- Crystal walls for the den interior
-- Solo until Cool consolidation happens
+**Cool Landmark / Freezing Chambers (Northern Large Island)**
+- The larger northern island is the natural home for the Freezing Chambers / cool-zone concept because it feels distinct enough to become its own themed biome
+- Glaceon is already consolidated out of Palette in the current grouping, so this island can now function more as a landmark, optional retreat, or future special-use zone rather than mandatory housing
+- Features: Ice blocks, icy rock decoration, crystal walls, frozen court feel, and a more isolated "destination island" mood
 
-### Showcase Zone (Center)
-This is the main draw of Palette Town — use the vast empty space for:
+### Showcase Zone (Main South-West Island)
+This is the main draw of Palette Town, and it should live mostly on the big south-west island rather than in some abstract central plain:
 - **Museum/Gallery** — Exhibition stands, mysterious pedestals, photo frames, paintings
 - **Trophy Hall** — Display badges, lost relics, fossils on iron stands
 - **Experimental Builds** — Test architecture combos before deploying to other areas
 - **Obstacle Course** — Floor switches, laser sensors, elevator platforms
 - **Concert Venue** — Small stages, music mats, speakers, standing mics
-- **Full Orchard** — Every berry tree type, every flower type, every hedge type
+- **Full Orchard / Farm** — Every berry tree type, every flower type, every hedge type, plus crop plots where space allows
+- **Fighting Court** — This island has the room for it and can absorb larger public builds better than the home hub
 
 ### Public Amenities
-- **Altar of the Flame** kit — NE, landmark build
-- **Abandoned Power Plant** kit — S-Center, powers the town + thematic
-- **Freezing Chambers** kit — SE, Glaceon's home + cool landmark
-- **Pokemon Center** — Build when ready (materials from Palette Town resources)
-- **Mega Farm** — South area, every crop type (carrots, wheat, beans, tomatoes, potatoes)
-- **Charging Station** — Near Power Plant
+- **Home Hub Island** — Pokecenter, personal house, plaza, and short utility strip all stay together here
+- **Freezing Chambers** kit — Use the northern large island as the obvious cool landmark zone
+- **Altar of the Flame** kit — Best on one of the smaller northern or upper islands so it reads as a special destination rather than a background prop
+- **Abandoned Power Plant** kit — Good candidate for a smaller detached island or the more industrial edge of the main island
+- **Mega Farm / Orchard** — Belongs mostly on the large south-west island where the flat interior is actually available
+- **Charging Station** — Near the Power Plant or home hub depending on which island gets the stronger utility identity
+- **Bridges / Causeways** — Palette should use deliberate short bridges, ferries, or causeways between islands so it feels like a personal island network
 
 ### Recommended Paths
-- **Main Avenue:** Aged-stone flooring or stone flooring (classic town feel)
-- **South Lane:** Brick flooring
-- **Village paths:** Stepping stones, wooden path
-- **Showcase Zone:** Mix and match — this is where you experiment
-- **House spacing:** 5-8 blocks — spread out, give each house a real yard
+- **Home Hub Paths:** Aged-stone or stone flooring with a tight plaza loop around the Pokecenter
+- **Main Island Paths:** More open and experimental; this is where Palette can actually feel spacious
+- **Bridge Links:** Keep them short and intentional so the island chain remains readable
+- **Village paths:** Stepping stones, wooden path, and beach-edge transitions on the main island
+- **Showcase Zone:** Mix styles freely, since this is still your experimentation area
+- **House spacing:** 5-8 blocks on the main island; much tighter or single-purpose on the smaller islands
 
 ### Architecture Style Guide
-- **Mix everything** — Palette Town is the sandbox, so use it to try styles you can't fit elsewhere
-- **Key items:** Aged-stone wall, patterned aged-stone wall (unique to Wastelands/Palette)
-- **Unique blocks:** Ice, black rock, cliff rock, spotted cliff rock — all native here
-- **Doors:** Try the brainy door, swinging doors, large wooden door — things that feel "home base"
+- **Home Hub:** Aged-stone wall, plaster, cozy doors, simple home-base architecture
+- **Main Showcase Island:** Mix everything; this is where experimentation should actually happen
+- **Cool Island:** Ice, crystal walls, clean geometry, more deliberate landmark composition
+- **Dark Satellite:** Black rock, cave rock, patterned aged-stone, mood lighting
+- **Warm Satellite:** Campfire courts, lanterns, wood-and-stone builds, landmark silhouettes
+- **Key items:** Aged-stone wall, patterned aged-stone wall, ice, black rock, cliff rock, spotted cliff rock, and any special landmark kits you want to isolate by island
 
 ---
 

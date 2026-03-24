@@ -115,33 +115,30 @@
 
 ---
 
-**House 6: The Workshop** — Gurdurr, Timburr, Magnemite, Pichu
-- Gurdurr+Timburr share: Exercise, Construction, Slender objects
-- Magnemite+Pichu share: Electronics
-- Gurdurr+Magnemite share: Metal stuff, Group activities
+**House 6: The Workshop** — Gurdurr, Timburr, Conkeldurr, Magnemite
+- Gurdurr+Timburr+Conkeldurr share: Exercise, Construction, Slender objects (3/5)
+- Gurdurr+Conkeldurr share: Group activities (4/5)
+- Gurdurr+Magnemite share: Metal stuff, Group activities (2/5)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 |
 |---|------|-------|-------|-------|-------|-------|
 | #066 | Gurdurr | Exercise | Construction | Metal stuff | Slender objects | Group activities |
 | #065 | Timburr | Exercise | Construction | Wooden stuff | Slender objects | Blocky stuff |
+| #067 | Conkeldurr | Exercise | Construction | Stone stuff | Slender objects | Group activities |
 | #027 | Magnemite | Electronics | Metal stuff | Shiny stuff | Hard stuff | Group activities |
-| #078 | Pichu | Electronics | Glass stuff | Cute stuff | Pretty flowers | Fabric |
 
 **Suggested Items:**
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
 - [Construction](../reference/Items%20By%20Favorite/Construction.md): Iron scaffold, Construction supplies
-- [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes, Metal drum
 - [Slender Objects](../reference/Items%20By%20Favorite/Slender%20Objects.md): Rope, Town streetlight
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Industrial bench
+- [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes, Metal drum
 - [Wooden Stuff](../reference/Items%20By%20Favorite/Wooden%20Stuff.md): Plain stand, Wooden crate
 - [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Polygonal Shelf
+- [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Strength rock
 - [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Utility pole, Wall switch
 - [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
 - [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Iron stand
-- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Glass window
-- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Pretty Flowers](../reference/Items%20By%20Favorite/Pretty%20Flowers.md): Small vase
-- [Fabric](../reference/Items%20By%20Favorite/Fabric.md): Fluff
 
 ### Dark Habitat
 

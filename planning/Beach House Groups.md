@@ -179,19 +179,23 @@
 
 ### Cool Habitat
 
-**House 27: The Lone Cat** — Meowth
-- **NOTE:** Meowth is unique and gets his own house because he is the only Cool-habitat resident so far.
+**House 27: The Cat Duo** — Meowth, Persian
+- All share: Containers, Group activities, Shiny stuff, Luxury (4/6)
+- Meowth adds: Glass stuff
+- Persian adds: Watching stuff
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #084 | Meowth | Containers | Group activities | Shiny stuff | Glass stuff | Luxury | Spicy Flavors |
+| #085 | Persian | Containers | Group activities | Shiny stuff | Watching stuff | Luxury | Sour Flavors |
 
 **Suggested Items:**
 - [Containers](../reference/Items%20By%20Favorite/Containers.md): Poké Ball Chest
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Chic sofa
 - [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Big Nugget
-- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Stained-glass window
 - [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury chair
+- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Stained-glass window
+- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (landscape)
 
 ### Dark Habitat
 
@@ -246,30 +250,28 @@
 
 ---
 
-**House 30: The Shiny Schemers** — Grimer, Muk, Zorua, Zoroark
-- All share: Shiny stuff (1/6)
-- Grimer+Muk share: Garbage, Spooky stuff, Gatherings (4/6)
-- Zorua+Zoroark share: Luxury, Glass stuff, Group activities (4/6)
+**House 30: The Poison Factory** — Koffing, Weezing, Grimer, Muk
+- All share: Garbage, Gatherings (2/6)
+- Koffing+Weezing share: Complicated stuff, Soft stuff, Wobbly stuff (5/6 perfect!)
+- Grimer+Muk share: Spooky stuff, Shiny stuff (4/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
+| #038 | Koffing | Garbage | Gatherings | Complicated stuff | Soft stuff | Wobbly stuff | Bitter flavors |
+| #039 | Weezing | Garbage | Gatherings | Complicated stuff | Soft stuff | Wobbly stuff | Bitter flavors |
 | #091 | Grimer | Garbage | Spooky stuff | Gatherings | Shiny stuff | Containers | Bitter flavors |
 | #092 | Muk | Garbage | Spooky stuff | Gatherings | Shiny stuff | Colorful stuff | Bitter flavors |
-| #134 | Zorua | Shiny stuff | Luxury | Glass stuff | Cute stuff | Group activities | Sour Flavors |
-| #135 | Zoroark | Shiny stuff | Luxury | Glass stuff | Strange stuff | Group activities | Spicy Flavors |
 
 **Suggested Items:**
-- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Red meteor lamp
-- [Garbage](../reference/Items%20By%20Favorite/Garbage.md): Garbage bin
-- [Spooky Stuff](../reference/Items%20By%20Favorite/Spooky%20Stuff.md): Boo-in-the-box
+- [Garbage](../reference/Items%20By%20Favorite/Garbage.md): Garbage bags, Garbage bin
 - [Gatherings](../reference/Items%20By%20Favorite/Gatherings.md): Sandbags
+- [Complicated Stuff](../reference/Items%20By%20Favorite/Complicated%20Stuff.md): Magazine rack
+- [Soft Stuff](../reference/Items%20By%20Favorite/Soft%20Stuff.md): Plain sofa
+- [Wobbly Stuff](../reference/Items%20By%20Favorite/Wobbly%20Stuff.md): Wobbuffet Wobbler
+- [Spooky Stuff](../reference/Items%20By%20Favorite/Spooky%20Stuff.md): Boo-in-the-box
+- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Red meteor lamp
 - [Containers](../reference/Items%20By%20Favorite/Containers.md): Plain chest
 - [Colorful Stuff](../reference/Items%20By%20Favorite/Colorful%20Stuff.md): Paint balloon (purple)
-- [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
-- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Stained-glass window
-- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Repel
-- [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Chic sofa
 
 ### Humid Habitat
 

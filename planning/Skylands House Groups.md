@@ -2,17 +2,13 @@
 
 ### Bright Habitat
 
-**House 59: The Electric Squad** — Plusle, Minun, Raichu, Dedenne
-- All share: Electronics, Group activities (2/6)
-- Plusle+Minun+Raichu share: Glass stuff (3/6)
-- Plusle+Minun share: Soft stuff, Cute stuff (5/6)
+**House 59: The Cheering Pair** — Plusle, Minun
+- Share: Electronics, Glass stuff, Soft stuff, Cute stuff, Group activities (5/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #235 | Plusle | Electronics | Glass stuff | Soft stuff | Cute stuff | Group activities | Sweet Flavors |
 | #236 | Minun | Electronics | Glass stuff | Soft stuff | Cute stuff | Group activities | Spicy flavors |
-| #080 | Raichu | Electronics | Glass stuff | Group activities | Round stuff | Play spaces | Sour Flavors |
-| #254 | Dedenne | Electronics | Cute stuff | Watching stuff | Group activities | Looks like food | Sweet Flavors |
 
 **Suggested Items:**
 - [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Arcade machine, Wall monitor
@@ -20,10 +16,6 @@
 - [Soft Stuff](../reference/Items%20By%20Favorite/Soft%20Stuff.md): Plain sofa
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Pikachu sofa
-- [Round Stuff](../reference/Items%20By%20Favorite/Round%20Stuff.md): Balloons
-- [Play Spaces](../reference/Items%20By%20Favorite/Play%20Spaces.md): Tire toy
-- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (landscape)
-- [Looks Like Food](../reference/Items%20By%20Favorite/Looks%20Like%20Food.md): Berry basket
 
 ---
 
@@ -118,47 +110,54 @@
 
 ---
 
-**House 64: The Psychic Shrine** — Ralts, Kirlia, Gardevoir
-- All share: Strange stuff, Healing, Watching stuff, Symbols (4/6)
-- Ralts+Kirlia share: Cute stuff, Sweet Flavors (6/6 perfect!)
+**House 64: The Psychic Family** — Ralts, Kirlia, Gardevoir, Gallade
+- All share: Strange stuff, Healing (2/6)
+- Ralts+Kirlia+Gardevoir share: Watching stuff, Symbols (4/6)
+- Ralts+Kirlia share: Cute stuff (5/6)
+- Gallade adds: Exercise, Construction, Fabric
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #231 | Ralts | Strange stuff | Cute stuff | Healing | Watching stuff | Symbols | Sweet Flavors |
 | #232 | Kirlia | Strange stuff | Cute stuff | Healing | Watching stuff | Symbols | Sweet Flavors |
 | #233 | Gardevoir | Strange stuff | Luxury | Healing | Watching stuff | Symbols | Sour Flavors |
-
-**Suggested Items:**
-- [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Large Lost Relic
-- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Healing](../reference/Items%20By%20Favorite/Healing.md): First aid kit
-- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (portrait)
-- [Symbols](../reference/Items%20By%20Favorite/Symbols.md): Signpost
-- [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
-
----
-
-**House 65: The Builders** — Tinkaton, Conkeldurr, Gallade
-- All share: Construction, Exercise, Spicy flavors (3/6)
-
-| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
-|---|------|-------|-------|-------|-------|-------|-------|
-| #270 | Tinkaton | Cute stuff | Metal stuff | Construction | Blocky stuff | Exercise | Spicy flavors |
-| #067 | Conkeldurr | Exercise | Construction | Stone stuff | Slender objects | Group activities | Spicy flavors |
 | #234 | Gallade | Strange stuff | Exercise | Healing | Construction | Fabric | Spicy flavors |
 
 **Suggested Items:**
-- [Construction](../reference/Items%20By%20Favorite/Construction.md): Iron scaffold, Construction supplies
+- [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Large Lost Relic
+- [Healing](../reference/Items%20By%20Favorite/Healing.md): First aid kit
+- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (portrait)
+- [Symbols](../reference/Items%20By%20Favorite/Symbols.md): Signpost
+- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
+- [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
+- [Construction](../reference/Items%20By%20Favorite/Construction.md): Iron scaffold
+- [Fabric](../reference/Items%20By%20Favorite/Fabric.md): Fluff
+
+---
+
+**House 65: The Tinkaton Line** — Tinkatink, Tinkatuff, Tinkaton, Mawile
+- All share: Cute stuff, Metal stuff (2/6)
+- Tinkatink+Tinkatuff+Tinkaton share: Construction, Exercise (4/6)
+- Tinkatink+Mawile share: Looks like food
+- Tinkatuff+Mawile share: Group activities
+
+| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
+|---|------|-------|-------|-------|-------|-------|-------|
+| #268 | Tinkatink | Cute stuff | Metal stuff | Construction | Looks like food | Exercise | Sweet Flavors |
+| #269 | Tinkatuff | Cute stuff | Metal stuff | Construction | Group activities | Exercise | Sour Flavors |
+| #270 | Tinkaton | Cute stuff | Metal stuff | Construction | Blocky stuff | Exercise | Spicy flavors |
+| #175 | Mawile | Metal stuff | Cute stuff | Colorful stuff | Looks like food | Group activities | Dry flavors |
+
+**Suggested Items:**
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
 - [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes
-- [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Wooden crate
-- [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Strength rock
-- [Slender Objects](../reference/Items%20By%20Favorite/Slender%20Objects.md): Rope
+- [Construction](../reference/Items%20By%20Favorite/Construction.md): Iron scaffold
+- [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Iron bench
-- [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Armor fragment
-- [Healing](../reference/Items%20By%20Favorite/Healing.md): First aid kit
-- [Fabric](../reference/Items%20By%20Favorite/Fabric.md): Fluff
+- [Looks Like Food](../reference/Items%20By%20Favorite/Looks%20Like%20Food.md): Berry basket
+- [Blocky Stuff](../reference/Items%20By%20Favorite/Blocky%20Stuff.md): Wooden crate
+- [Colorful Stuff](../reference/Items%20By%20Favorite/Colorful%20Stuff.md): Pink paint
 
 ---
 
@@ -181,18 +180,16 @@
 
 ### Cool Habitat
 
-**House 66: The Steel Assembly** — Beldum, Metang, Metagross, Persian
-- Beldum+Metang+Metagross share: Metal stuff, Strange stuff, Hard stuff (3/6)
+**House 66: The Beldum Line** — Beldum, Metang, Metagross
+- All share: Metal stuff, Strange stuff, Hard stuff (3/6)
 - Beldum+Metang share: Complicated stuff, Stone stuff (5/6)
-- Metagross+Persian share: Luxury (1/6)
-- Note: Persian could potentially join Meowth (Bleak Beach) and Amaura+Aurorus (Rocky Ridges) for a Cool consolidation later.
+- Metagross adds: Exercise, Luxury
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #245 | Beldum | Metal stuff | Strange stuff | Hard stuff | Complicated stuff | Stone stuff | Sour Flavors |
 | #246 | Metang | Metal stuff | Strange stuff | Hard stuff | Complicated stuff | Stone stuff | Bitter flavors |
 | #247 | Metagross | Metal stuff | Strange stuff | Hard stuff | Exercise | Luxury | Dry flavors |
-| #085 | Persian | Containers | Group activities | Shiny stuff | Watching stuff | Luxury | Sour Flavors |
 
 **Suggested Items:**
 - [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes, Iron bench
@@ -202,10 +199,6 @@
 - [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Mysterious statue
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
 - [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
-- [Containers](../reference/Items%20By%20Favorite/Containers.md): Plain chest
-- [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Chic sofa
-- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Big Nugget
-- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Television
 
 ### Dark Habitat
 

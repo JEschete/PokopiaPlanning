@@ -2,32 +2,32 @@
 
 ### Bright Habitat
 
-**House 79: The Activity Center** — Pikachu, Tinkatuff, Mawile, Machop
-- All share: Group activities (1/6)
-- Tinkatuff+Machop share: Construction, Exercise (3/6)
-- Tinkatuff+Mawile share: Cute stuff, Metal stuff (3/6)
+**House 79: The Electric Family** — Pikachu, Pichu, Raichu, Dedenne
+- All share: Electronics (1/6)
+- Pikachu+Pichu+Raichu share: Glass stuff (2/6)
+- Pikachu+Raichu+Dedenne share: Group activities (3/4)
+- Pikachu+Raichu share: Round stuff
+- Pichu+Dedenne share: Cute stuff
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #079 | Pikachu | Electronics | Glass stuff | Group activities | Round stuff | Rides | Sour Flavors |
-| #269 | Tinkatuff | Cute stuff | Metal stuff | Construction | Group activities | Exercise | Sour Flavors |
-| #175 | Mawile | Metal stuff | Cute stuff | Colorful stuff | Looks like food | Group activities | Dry flavors |
-| #156 | Machop | Exercise | Construction | Stone stuff | Hard stuff | Group activities | Spicy Flavors |
+| #078 | Pichu | Electronics | Glass stuff | Cute stuff | Pretty flowers | Fabric | Sweet Flavors |
+| #080 | Raichu | Electronics | Glass stuff | Group activities | Round stuff | Play spaces | Sour Flavors |
+| #254 | Dedenne | Electronics | Cute stuff | Watching stuff | Group activities | Looks like food | Sweet Flavors |
 
 **Suggested Items:**
-- [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Garden bench
 - [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Arcade machine
 - [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Glass window
+- [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Pikachu sofa
 - [Round Stuff](../reference/Items%20By%20Favorite/Round%20Stuff.md): Balloons
-- [Rides](../reference/Items%20By%20Favorite/Rides.md): Handcar
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Metal Stuff](../reference/Items%20By%20Favorite/Metal%20Stuff.md): Iron pipes
-- [Colorful Stuff](../reference/Items%20By%20Favorite/Colorful%20Stuff.md): Pink paint
+- [Rides](../reference/Items%20By%20Favorite/Rides.md): Handcar
+- [Pretty Flowers](../reference/Items%20By%20Favorite/Pretty%20Flowers.md): Small vase
+- [Fabric](../reference/Items%20By%20Favorite/Fabric.md): Fluff
+- [Play Spaces](../reference/Items%20By%20Favorite/Play%20Spaces.md): Tire toy
+- [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (landscape)
 - [Looks Like Food](../reference/Items%20By%20Favorite/Looks%20Like%20Food.md): Berry basket
-- [Construction](../reference/Items%20By%20Favorite/Construction.md): Iron scaffold
-- [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
-- [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Strength rock
-- [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Iron stand
 
 ---
 
@@ -56,59 +56,47 @@
 
 ---
 
-**House 81: The Cute Club** — Tinkatink, Espeon, Jolteon
-- All share: Cute stuff (1/6)
-- Tinkatink+Espeon share: Sweet Flavors (2/6)
+**House 81: The Eevee Pair** — Espeon, Jolteon
+- Share: Cute stuff (1/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
-| #268 | Tinkatink | Cute stuff | Metal stuff | Construction | Looks like food | Exercise | Sweet Flavors |
 | #284 | Espeon | Strange stuff | Nice breezes | Cute stuff | Complicated stuff | Watching stuff | Sweet flavors |
 | #282 | Jolteon | Electronics | Shiny stuff | Cute stuff | Glass stuff | Sharp stuff | Spicy flavors |
 
 **Suggested Items:**
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
-- [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Arcade machine
-- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
-- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Glass window
-- [Sharp Stuff](../reference/Items%20By%20Favorite/Sharp%20Stuff.md): Vending machine
 - [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Repel
 - [Nice Breezes](../reference/Items%20By%20Favorite/Nice%20Breezes.md): Pinwheels
 - [Complicated Stuff](../reference/Items%20By%20Favorite/Complicated%20Stuff.md): Magazine rack
 - [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Painting (landscape)
-
-### Cool Habitat
-
-**Glaceon** — Solo
-- Note: Only Cool habitat Pokemon in Palette Town. Candidate for Cool consolidation with Meowth (Bleak Beach), Amaura+Aurorus (Rocky Ridges), and/or Persian+Beldum line (Sparkling Skylands).
-
-| # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
-|---|------|-------|-------|-------|-------|-------|-------|
-| #287 | Glaceon | Lots of water | Shiny stuff | Cute stuff | Glass stuff | Group activities | Sweet Flavors |
+- [Electronics](../reference/Items%20By%20Favorite/Electronics.md): Arcade machine
+- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
+- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Glass window
+- [Sharp Stuff](../reference/Items%20By%20Favorite/Sharp%20Stuff.md): Vending machine
 
 ### Dark Habitat
 
-**House 82: The Smog Trio** — Koffing, Weezing, Umbreon
-- All share: Bitter flavors (1/6)
-- Koffing+Weezing share: Garbage, Gatherings, Complicated stuff, Soft stuff, Wobbly stuff (6/6 perfect!)
+**House 82: The Shadow Trio** — Umbreon, Zorua, Zoroark
+- All share: Shiny stuff, Luxury (2/6)
+- Zorua+Zoroark share: Glass stuff, Group activities (4/6)
+- Umbreon+Zorua share: Cute stuff
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
-| #038 | Koffing | Garbage | Gatherings | Complicated stuff | Soft stuff | Wobbly stuff | Bitter flavors |
-| #039 | Weezing | Garbage | Gatherings | Complicated stuff | Soft stuff | Wobbly stuff | Bitter flavors |
 | #285 | Umbreon | Shiny stuff | Luxury | Cute stuff | Letters and words | Watching stuff | Bitter flavors |
+| #134 | Zorua | Shiny stuff | Luxury | Glass stuff | Cute stuff | Group activities | Sour Flavors |
+| #135 | Zoroark | Shiny stuff | Luxury | Glass stuff | Strange stuff | Group activities | Spicy Flavors |
 
 **Suggested Items:**
-- [Garbage](../reference/Items%20By%20Favorite/Garbage.md): Garbage bags, Garbage bin
-- [Gatherings](../reference/Items%20By%20Favorite/Gatherings.md): Sandbags
-- [Complicated Stuff](../reference/Items%20By%20Favorite/Complicated%20Stuff.md): Magazine rack
-- [Soft Stuff](../reference/Items%20By%20Favorite/Soft%20Stuff.md): Plain sofa
-- [Wobbly Stuff](../reference/Items%20By%20Favorite/Wobbly%20Stuff.md): Wobbuffet Wobbler
 - [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Big Nugget
 - [Luxury](../reference/Items%20By%20Favorite/Luxury.md): Luxury lamp
+- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Stained-glass window
+- [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Chic sofa
 - [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
 - [Letters and Words](../reference/Items%20By%20Favorite/Letters%20and%20Words.md): Open book
 - [Watching Stuff](../reference/Items%20By%20Favorite/Watching%20Stuff.md): Television
+- [Strange Stuff](../reference/Items%20By%20Favorite/Strange%20Stuff.md): Repel
 
 ---
 

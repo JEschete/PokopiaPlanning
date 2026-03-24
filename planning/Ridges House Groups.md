@@ -2,13 +2,14 @@
 
 ### Bright Habitat
 
-**House 38: The Fighters** — Machamp, Machoke
-- Share: Exercise, Construction, Stone stuff, Hard stuff, Group activities (5/6)
+**House 38: The Machop Line** — Machamp, Machoke, Machop
+- All share: Exercise, Construction, Stone stuff, Hard stuff, Group activities (5/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #158 | Machamp | Exercise | Construction | Stone stuff | Hard stuff | Group activities | Spicy flavors |
 | #157 | Machoke | Exercise | Construction | Stone stuff | Hard stuff | Group activities | Sour Flavors |
+| #156 | Machop | Exercise | Construction | Stone stuff | Hard stuff | Group activities | Spicy Flavors |
 
 **Suggested Items:**
 - [Exercise](../reference/Items%20By%20Favorite/Exercise.md): Punching bag
@@ -58,23 +59,28 @@
 
 ### Cool Habitat
 
-**House 41: The Aurora Pair** — Amaura, Aurorus
-- Share: Stone stuff, Hard stuff, Shiny stuff (3/6)
-- Note: Only Cool habitat in Rocky Ridges. Could potentially pair with Meowth from Bleak Beach later.
+**House 41: The Frost Trio** — Amaura, Aurorus, Glaceon
+- All share: Shiny stuff (1/6)
+- Amaura+Aurorus share: Stone stuff, Hard stuff (3/6)
+- Amaura+Glaceon share: Group activities (2/6)
 
 | # | Name | Fav 1 | Fav 2 | Fav 3 | Fav 4 | Fav 5 | Fav 6 |
 |---|------|-------|-------|-------|-------|-------|-------|
 | #278 | Amaura | Stone stuff | Hard stuff | Shiny stuff | Group activities | Containers | Dry flavors |
 | #279 | Aurorus | Stone stuff | Hard stuff | Shiny stuff | Noisy stuff | Symbols | Sour Flavors |
+| #287 | Glaceon | Lots of water | Shiny stuff | Cute stuff | Glass stuff | Group activities | Sweet Flavors |
 
 **Suggested Items:**
+- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
 - [Stone Stuff](../reference/Items%20By%20Favorite/Stone%20Stuff.md): Stone bench, Mysterious statue
 - [Hard Stuff](../reference/Items%20By%20Favorite/Hard%20Stuff.md): Iron stand
-- [Shiny Stuff](../reference/Items%20By%20Favorite/Shiny%20Stuff.md): Crystal fragment
 - [Group Activities](../reference/Items%20By%20Favorite/Group%20Activities.md): Iron bench
 - [Containers](../reference/Items%20By%20Favorite/Containers.md): Plain chest
 - [Noisy Stuff](../reference/Items%20By%20Favorite/Noisy%20Stuff.md): Clear Bell
 - [Symbols](../reference/Items%20By%20Favorite/Symbols.md): Signpost
+- [Lots of Water](../reference/Items%20By%20Favorite/Lots%20of%20Water.md): Water basin
+- [Cute Stuff](../reference/Items%20By%20Favorite/Cute%20Stuff.md): Cute lamp
+- [Glass Stuff](../reference/Items%20By%20Favorite/Glass%20Stuff.md): Stained-glass window
 
 ### Dark Habitat
 
