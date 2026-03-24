@@ -10,7 +10,11 @@ Active city-building documents — where the design work lives.
 
 | File | Description |
 |------|-------------|
-| [House Groups](planning/House%20Groups.md) | 86 houses across 5 areas, grouped by location and ideal habitat with favorite overlap analysis |
+| [Wasteland House Groups](planning/Wasteland%20House%20Groups.md) | Houses 1–19 — Withered Wastelands |
+| [Beach House Groups](planning/Beach%20House%20Groups.md) | Houses 20–37 — Bleak Beach |
+| [Ridges House Groups](planning/Ridges%20House%20Groups.md) | Houses 38–58 — Rocky Ridges |
+| [Skylands House Groups](planning/Skylands%20House%20Groups.md) | Houses 59–78, 87 — Sparkling Skylands |
+| [Pallet House Groups](planning/Pallet%20House%20Groups.md) | Houses 79–86 — Palette Town |
 | [Landscape & Building Plan](planning/Landscape%20%26%20Building%20Plan.md) | Master layout guide: district maps, architecture styles, water/lava features, urban zones, and lighting per area |
 | [City Planning](planning/City%20Planning.txt) | Working input file — paste Pokemon batches here for house group analysis |
 
@@ -21,7 +25,7 @@ Active city-building documents — where the design work lives.
 | Withered Wastelands | 240x240 | 1–19 (19) | Bright, Dark, Dry, Humid, Warm |
 | Bleak Beach | 272x272 | 20–37 (18) | Bright, Cool*, Dark, Humid, Warm |
 | Rocky Ridges | 272x272 | 38–58 (21) | Bright, Cool, Dark, Dry, Humid, Warm |
-| Sparkling Skylands | 352x352 | 59–78 (20) | Bright, Cool, Dark, Dry, Humid, Warm |
+| Sparkling Skylands | 352x352 | 59–78, 87 (21) | Bright, Cool, Dark, Dry, Humid, Warm |
 | Palette Town | 384x384 | 79–86 (8) | Bright, Cool*, Dark, Humid, Warm |
 
 *\* Cool solos flagged for potential cross-area consolidation (Meowth, Glaceon)*
@@ -36,6 +40,7 @@ Game data and lookup tables scraped/compiled from the wiki.
 |------|-------------|
 | [Pokopia.csv](reference/Pokopia.csv) | Full database of 305 Pokemon — number, name, location, habitat, favorites, specialties |
 | [Item List](reference/Item%20List.txt) | Complete item catalog: materials, food, furniture, outdoor, utilities, nature, buildings, blocks, kits |
+| [Items by Favorite](reference/Items%20By%20Favorite.md) | 43 favorite categories with item lists for furnishing houses |
 | [Habitats](reference/Habitats.md) | 209 regular + 3 event habitats with descriptions |
 | [Locations](reference/Locations.md) | 6 area overviews with available materials and blocks |
 | [Specialties](reference/Specialties.txt) | 31 Pokemon specialties reference |

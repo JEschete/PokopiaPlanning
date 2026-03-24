@@ -303,3 +303,6 @@ https://www.serebii.net/pokemonpokopia/pokedex/zapdos.shtml
 https://www.serebii.net/pokemonpokopia/pokedex/zoroark.shtml
 https://www.serebii.net/pokemonpokopia/pokedex/zorua.shtml
 https://www.serebii.net/pokemonpokopia/pokedex/zubat.shtml
+https://www.serebii.net/pokemonpokopia/pokedex/mimejr..shtml
+https://www.serebii.net/pokemonpokopia/pokedex/mr.mime.shtml
+https://www.serebii.net/pokemonpokopia/pokedex/farfetch'd.shtml

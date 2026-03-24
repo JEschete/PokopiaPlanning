@@ -1,14 +1,16 @@
 import csv
 import re
 import time
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
 # Configuration
 BASE_URL = "https://www.serebii.net"
-URLS_FILE = "pokopia_urls.txt"
-OUTPUT_FILE = "Pokopia.csv"
+_DIR = Path(__file__).parent
+URLS_FILE = _DIR / "pokopia_urls.txt"
+OUTPUT_FILE = _DIR / "Pokopia.csv"
 MAX_HABITATS = 3  # colspan="3" in the HTML suggests up to 3
 LOCATIONS = [
     "Withered Wastelands",
