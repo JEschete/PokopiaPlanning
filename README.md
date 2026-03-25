@@ -74,5 +74,5 @@ Scraping utilities for pulling data from the Pokopia wiki.
 
 Huge thanks to [Serebii](https://www.serebii.net/) for being such an incredible general Pokémon reference over the years.
 
-Pokopia-specific data used in this project is scraped and compiled from the Pokopia wiki (see Reference and Tools sections above).
+Pokopia-specific data used in this project is scraped and compiled from Serebii.
 The housing group assignments and planning structure are my own original work.
